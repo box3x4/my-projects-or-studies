@@ -13,4 +13,5 @@ How to use it:</br>
  node finite_deterministic_automata.js <tape to be verified. e.g. 10101010>
   
 <h2>Note</h2>
-  <h3>This script uses ECMAScript 6, so you need node v5.5.0 or above</h3>
+  <h3>This script uses ECMAScript 6 features, so you need node v5.5.0 or above to be able to run it</h3>
+  <h3>automata_rules.js and finite_deterministic_automata.js need to be in the same folder</h3>
