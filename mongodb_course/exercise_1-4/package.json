@@ -1,0 +1,15 @@
+{
+    "name": "insert_movies",
+    "version": "0.1.0",
+    "description": "Insert a movie into the DB via browser",
+    "main": "app.js",
+    "dependencies": {
+        "express": "~4.13.3",
+        "body-parser": "~1.14.2",
+        "consolidate": "~0.13.1",
+        "nunjucks": "~2.2.0",
+        "mongodb": "~2.1.3"
+    },
+    "author": "Bruno Carvalho",
+    "license": "0BSD"
+}
