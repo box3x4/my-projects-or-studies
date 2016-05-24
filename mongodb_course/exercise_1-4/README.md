@@ -11,5 +11,7 @@ Set up a route to handle a POST request of this form. This route should use the 
 Check that you are inserting records correctly in the Mongo shell with some find() commands."
 
 to run, enter the directory and run
-  npm install
-  node app.js
+```c
+npm install
+node app.js
+```
