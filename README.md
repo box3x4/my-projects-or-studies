@@ -1,3 +1,3 @@
-# my_node_projects
+# My projects or academic studies
 
-in this repository i'll be uploading some of my node.js projects, academics or not.
+In this repository I'll be uploading some of my projects and studies, academics or not.
