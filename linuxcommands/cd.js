@@ -1,0 +1,1 @@
+process.chdir(process.argv[2]);
