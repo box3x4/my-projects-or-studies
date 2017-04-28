@@ -1,0 +1,2 @@
+all:thr_matrix_add.c
+	gcc -Wall -Wextra -Werror -o thr_matrix_add thr_matrix_add.c -pthread
